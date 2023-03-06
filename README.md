@@ -29,6 +29,7 @@ A finalidade do repositório é colocar todo meu aprendizado em pratica e compar
 
 **・Entre outras linguagens...**
 
+> * Vou tentar organizar tudo em pastas de acordo com os projetos e as linguagens.
 
 
 ## 🔎 **Observação(LEIA)** 
