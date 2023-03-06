@@ -13,7 +13,7 @@ A finalidade do repositório é colocar todo meu aprendizado em pratica e compar
 ## 🌐 Informações
 ![image](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
 
- **・Linguagens contidas nos cursos:** <p>
+ **1・Linguagens contidas nos cursos:** <p>
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,10 +26,10 @@ A finalidade do repositório é colocar todo meu aprendizado em pratica e compar
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 <p>
-
+  
 **・Entre outras linguagens...**
 
-> * Vou tentar organizar tudo em pastas de acordo com os projetos e as linguagens.
+📁 **2・Vou organizar tudo em pastas de acordo com os projetos e as linguagens.**
 
 
 ## 🔎 **Observação(LEIA)** 
